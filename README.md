@@ -89,3 +89,11 @@ Speedtest: CDN 101MB*
 *Actual speed may vary, depending on many factors.
 
 [http://www.sentris.net/billing/aff.php?aff=&gid=18](http://www.sentris.net/billing/aff.php?aff=&gid=18)
+
+
+## Kimsufi
+KS-7 Server - Intel i3 2130 - 8Go DDR3 1333 MHZ - 2To
+€8.99 /month per server
+North America, East (Beauharnois)
+
+[https://www.kimsufi.com/en/order/kimsufi.xml?reference=1804sk181](https://www.kimsufi.com/en/order/kimsufi.xml?reference=1804sk181)
