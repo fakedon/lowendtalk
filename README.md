@@ -92,8 +92,8 @@ Speedtest: CDN 101MB*
 
 
 ## Kimsufi
-KS-7 Server - Intel i3 2130 - 8Go DDR3 1333 MHZ - 2To
-€8.99 /month per server
-North America, East (Beauharnois)
+KS-7 Server - Intel i3 2130 - 8Go DDR3 1333 MHZ - 2To  
+€8.99 /month per server  
+North America, East (Beauharnois)  
 
 [https://www.kimsufi.com/en/order/kimsufi.xml?reference=1804sk181](https://www.kimsufi.com/en/order/kimsufi.xml?reference=1804sk181)
